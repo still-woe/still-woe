@@ -1,4 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFff5e2f&lines=Приветик!+Я+Анастасия,)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFff5e2f&lines=Recruiter)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFff5e2f&lines=Digital-агенства)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFff5e2f&lines=ФОДЖИН)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff5e2f&multiline=true&width=600&height=100&lines=Приветик!;Я+Анастасия;Recruiter;IT+компании+ФОДЖИН" alt="Typing SVG" /></a>

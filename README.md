@@ -1,1 +1,1 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff5e2f&multiline=true&width=600&height=100&lines=Приветик!;Я+Анастасия;Recruiter+IT+компании+ФОДЖИН" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff5e2f&multiline=true&width=600&height=100&lines=Приветик!;Я+Анастасия,;Recruiter+IT+компании+ФОДЖИН" alt="Typing SVG" /></a>
